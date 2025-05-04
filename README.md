@@ -3,9 +3,7 @@ Objetivos:
 • Desenvolver uma página simples utilizando html, css e Javascript.
 • Criar um repositório no github e disponibilizar a página web.
 Requisitos :
-
-HTML
- - Criando uma Página Simples
+HTML- Criando uma Página Simples
 Crie um arquivo chamado index.html e escreva o código para exibir uma página
 simples contendo:
 1. Um título principal (<h1>) com seu nome.
@@ -16,9 +14,7 @@ cidade, interesses etc.).
 5. Uma tabela <table> que contenha o nome e a imagem de três países que gostaria de visitar. (tabela com 3 linhas x 2 colunas)
 6. Um link (<a>) que leve para um site de interesse do aluno (exemplo: um site
 de notícias, tecnologia ou entretenimento).
-
-CSS 
-- Requisitos de estilização:
+CSS- Requisitos de estilização:
 1. O fundo da página deve ter uma cor suave.
 2. O título (<h1>) deve ter uma cor diferente e estar centralizado.
 3. O parágrafo (<p>) deve ter um tamanho de fonte maior e ser justificado.
@@ -26,9 +22,7 @@ CSS
 5. A imagem (<img>) deve ter bordas arredondadas e um tamanho adequado
 6. A tabela(<table>) deve estar estilizada.
 7. O link (<a>) deve mudar de cor quando o usuário passar o mouse sobre ele.
-
-JavaScript
- – adicionar um botão para interagir com a página
+JavaScript– adicionar um botão para interagir com a página
 • Criar um botão abaixo do parágrafo com o texto "Clique para ver uma
 mensagem!".
 • Quando o usuário clicar, uma mensagem (por exemplo uma frase de
